@@ -6,7 +6,8 @@ Option 1 - Data Science/ML
 
 Please take a moment to review the following data set:
 
-[challenge_dataset](https://drive.google.com/file/d/15X00ZWBjla7qGOIW33j8865QdF89IyAk/view?usp=sharing\).
+1. [build_dataset_nb](https://github.com/christianspybrook/movie_text_topic_modeling/tree/master/build_dataset)
+: Notebook containing the code I used to assemble the movie tagline text data.
 
 The dataset is tabular and the features involved should be self-explanatory. We would like for you to come up with a specific problem yourself and solve it properly. This is an “open challenge,” mainly focusing on natural language processing. The problem could be either about predictive modeling or providing analytical insights for some business use cases. Note the problem should be treated as large-scale, as the dataset is large (e.g., >100GB) and will not fit into the RAM of your machine. Python is strongly recommended in terms of the coding language.
 
