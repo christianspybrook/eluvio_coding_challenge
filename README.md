@@ -25,7 +25,8 @@ Algorithms, Framaeworks, and Libraries Demonstrated:
 Project Workflow:
 -----------------
 
-- [x] Load and observe dataset
+Notebook 1:
+> - [x] Load and observe dataset
 - [x] Reduce memory footprint
 - [x] Feature Engineering
 - [x] Topic Modeling
