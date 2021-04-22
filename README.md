@@ -32,5 +32,5 @@ Project Workflow:
 - [ ] Predictive Modeling
 - [ ] Next steps
 
-In Progress...
-	updated as required.
+In Progress...  
+>> updating soon.
