@@ -26,12 +26,12 @@ Project Workflow:
 -----------------
 
 Notebook 1:
-> - [x] Load and observe dataset
-- [x] Reduce memory footprint
-- [x] Feature Engineering
-- [x] Topic Modeling
-- [ ] Predictive Modeling
-- [ ] Next steps
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Next steps
 
 In Progress...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;updating soon.
