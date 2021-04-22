@@ -29,7 +29,9 @@ Notebook 1:
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering  
+Notebook 2:  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling  
+Notebook 3:  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Next steps
 
