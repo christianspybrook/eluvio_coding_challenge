@@ -29,7 +29,7 @@ Project Workflow:
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering  
-[Notebook 2]:(https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/topic_modeling.ipynb)  
+[Notebook 1](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/data_preprocessing/preprocessing.ipynb):  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling  
 Notebook 3 (Coming soon):  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling  
