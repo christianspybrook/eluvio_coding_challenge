@@ -25,12 +25,12 @@ Algorithms, Framaeworks, and Libraries Demonstrated:
 Project Workflow:
 -----------------
 
-Notebook 1:
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling
-&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling
+Notebook 1:  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Next steps
 
 In Progress...  
