@@ -13,17 +13,24 @@ The dataset is tabular and the features involved should be self-explanatory. We 
 Algorithms, Framaeworks, and Libraries Demonstrated:
 ----------------------------------------------------
 
-1. Gradient Boosting
-2. Convolutional Neural Networks
-3. Sequence Models
-4. Tensorflow
-5. PyTorch
-6. Scikit-learn
+1. Laten Dirichlet Allocation
+2. Convolutional Neural Network
+3. GPU Parallelization
+4. Naive Bayes
+5. Tensorflow
+6. spaCy
+7. Scikit-learn
+8. Joblib
 
 Project Workflow:
 -----------------
 
-1. Load and observe dataset.
+- [x] Load and observe dataset
+- [x] Reduce memory footprint
+- [x] Feature Engineering
+- [x] Topic Modeling
+- [ ] Predictive Modeling
+- [ ] Next steps
 
 In Progress...
 	updated as required.
