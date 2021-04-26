@@ -16,24 +16,31 @@ Algorithms, Framaeworks, and Libraries Demonstrated:
 1. Laten Dirichlet Allocation
 2. Convolutional Neural Network
 3. GPU Parallelization
-4. Naive Bayes
+4. Random Forest
 5. Tensorflow
 6. spaCy
 7. Scikit-learn
 8. Joblib
+9. Dask
 
 Project Workflow:
 -----------------
 
-[Notebook 1](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/data_preprocessing/preprocessing.ipynb):  
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset  
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint  
+[Data Preprocessing](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/data_preprocessing/preprocessing.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Determine Business Objective  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce Memory Footprint  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering  
-[Notebook 2](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/topic_modeling.ipynb):  
-&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling  
-Notebook 3 (Coming soon):  
-&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling  
-&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Next steps
+[Topic Modeling](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/topic_modeling.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Text Tokenization Pipeline  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Latent Dirichlet Allocation  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Analysis & Visualization  
+[Classifier Selection](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/classification_model_selection.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Cross Validation Pipeline  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Analysis & Model Selection  
+Coming Soon:  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Random Forest Optimization  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Neural Network Regression  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Out of Memory Modifications Using Dask
 
 In Progress...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;updating soon.
