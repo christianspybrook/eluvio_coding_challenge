@@ -13,17 +13,27 @@ The dataset is tabular and the features involved should be self-explanatory. We 
 Algorithms, Framaeworks, and Libraries Demonstrated:
 ----------------------------------------------------
 
-1. Gradient Boosting
-2. Convolutional Neural Networks
-3. Sequence Models
-4. Tensorflow
-5. PyTorch
-6. Scikit-learn
+1. Laten Dirichlet Allocation
+2. Convolutional Neural Network
+3. GPU Parallelization
+4. Naive Bayes
+5. Tensorflow
+6. spaCy
+7. Scikit-learn
+8. Joblib
 
 Project Workflow:
 -----------------
 
-1. Load and observe dataset.
+[Notebook 1](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/data_preprocessing/preprocessing.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Load and observe dataset  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Reduce memory footprint  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Feature Engineering  
+[Notebook 2](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/topic_modeling.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Topic Modeling  
+Notebook 3 (Coming soon):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Predictive Modeling  
+&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Next steps
 
-In Progress...
-	updated as required.
+In Progress...  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;updating soon.
