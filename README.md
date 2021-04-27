@@ -46,4 +46,4 @@ Coming Soon:
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Out of Memory Modifications Using Dask
 
 In Progress...  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more coming, but ready as submission for is.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more coming, but ready for submission as is.
