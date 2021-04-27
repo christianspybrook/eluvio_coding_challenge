@@ -37,10 +37,13 @@ Project Workflow:
 [Classifier Selection](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/classification_model_selection.ipynb):  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Cross Validation Pipeline  
 &nbsp;&nbsp;&nbsp;&nbsp;- [x] Analysis & Model Selection  
+[Random Forest Optimization](https://github.com/christianspybrook/eluvio_coding_challenge/blob/master/modeling/rf_classifier.ipynb):  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Bayesian Hyperparameter Search  
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Analysis & Final Model Selection    
+&nbsp;&nbsp;&nbsp;&nbsp;- [x] Test Performance  
 Coming Soon:  
-&nbsp;&nbsp;&nbsp;&nbsp;- [ ] Random Forest Optimization  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Neural Network Regression  
 &nbsp;&nbsp;&nbsp;&nbsp;- [ ] Out of Memory Modifications Using Dask
 
 In Progress...  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;updating soon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more coming, but ready as submission as is.
